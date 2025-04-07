@@ -1,0 +1,20 @@
+﻿Fruit Type,Bumpy Skin,Thickness of Skin (mm),Where it was grown (in US),Owner's Name
+Apple,No,0.2,North,Alice
+Apple,No,0.4,North,Alice
+Apple,No,0.3,South,Alice
+Apple,Yes,0.2,North,Alice
+Apple,No,0.3,North,Alice
+Orange,Yes,0.8,South,Bob
+Orange,Yes,0.8,South,Bob
+Orange,Yes,0.6,South,Bob
+Orange,No,0.9,North,Bob
+Orange,Yes,1,North,Bob
+Apple,No,0.6,North,Alice
+Apple,No,0.3,North,Alice
+Apple,Yes,0.4,North,Alice
+Orange,Yes,0.8,South,Bob
+Orange,Yes,0.6,South,Bob
+Orange,Yes,0.9,South,Bob
+Orange,Yes,0.8,South,Bob
+Apple,No,0.3,North,Alice
+Apple,No,0.3,North,Alice
